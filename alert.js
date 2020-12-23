@@ -4,7 +4,7 @@
 //     alert("Hi!!!")
 // })();
 
-(function(){ alert("Hi!!!") })();
+(function(){ alert("Hi!!! From GitHub Pages!!!") })();
 
 
 // ADD SCRIPT ELEMENT TO A WEBPAGE
