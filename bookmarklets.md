@@ -3,6 +3,8 @@ Dec 22 2020
 # Bookmarklets
 
 - A repository for storing useful bookmarklets.
+- GitHub Pages
+    - [ ] <https://foxlioncode.github.io/bookmarklets/>
 
 ## Learning Path
 
