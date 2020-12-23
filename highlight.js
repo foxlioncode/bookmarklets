@@ -1,0 +1,1 @@
+(function(){ alert("HIGHLIGHT.JS NOT LOADED FROM PAGES!") })()
