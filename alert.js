@@ -5,3 +5,11 @@
 // })();
 
 (function(){ alert("Hi!!!") })();
+
+
+// ADD SCRIPT ELEMENT TO A WEBPAGE
+// (function(){
+//     let script = document.createElement('script');
+//     script.src = "bookmarklet.js";
+//     document.body.appendChild(script);
+// })();
